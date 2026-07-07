@@ -1,7 +1,7 @@
 class Solution {
 public:
     int reverse(int x) {
-        long long n=0;
+        long int n=0;
         bool sign=false;
         if(x<0){bool sign=true;}
         while(x!=0){
