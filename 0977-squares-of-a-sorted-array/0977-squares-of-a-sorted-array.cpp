@@ -7,7 +7,7 @@ public:
         int j=n-1;
         int pos=n-1;
         while(i<=j){
-            if(abs(nums[i])<abs(nums[j])){
+            if((nums[i]*nums[i])<(nums[j]*nums[j])){
                 res[pos]=(nums[j]*nums[j]);
                 j--;
             }
