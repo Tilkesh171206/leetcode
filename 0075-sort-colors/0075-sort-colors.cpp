@@ -4,30 +4,21 @@ public:
         int n=nums.size();
         int left=0;
         int right=n-1;
-        while(left<right){
-            if(nums[left]>nums[right]){
-                swap(nums[left],nums[right]);
-                if(nums[right]==2){
-                    right--;
-                }
-                if(nums[left]==0){
-                    left++;
-                }
-            }
-            else if(nums[left]==nums[right]){
-                if(nums[left]>=nums[left+1]){
-                    right--;
-                }else{
-                    left++;
-                }
-            }
-            else if(nums[left]==0){
+        int mid=0;
+        while(mid<=right){
+            if(nums[mid]==0){
+                swap(nums[mid],nums[left]);
                 left++;
+                mid++;
             }
-            else if(nums[right]==2){
+            else if(nums[mid]==1){
+                mid++;
+            }
+            else{
+                swap(nums[mid],nums[right]);
                 right--;
             }
-            
         }
+        
     }
 };
