@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tilkesh171206/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Tilkesh171206/leetcode/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
