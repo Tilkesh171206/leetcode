@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tilkesh171206/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Tilkesh171206/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Tilkesh171206/leetcode/tree/master/0877-stone-game) |
+| [2409-count-days-spent-together](https://github.com/Tilkesh171206/leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tilkesh171206/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Tilkesh171206/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Tilkesh171206/leetcode/tree/master/0344-reverse-string) |
+| [2409-count-days-spent-together](https://github.com/Tilkesh171206/leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Tilkesh171206/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
